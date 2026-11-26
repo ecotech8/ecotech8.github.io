@@ -1,5 +1,3 @@
-# ecotech8.github.io
-My site
 <!DOCTYPE html>
 <html lang="ru">
 <head>
